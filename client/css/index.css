@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+.counter {
+  margin: 0 auto;
+  text-align: center;
+}
+.counter__display {
+  font-size: 180px;
+  font-weight: bold;
+  padding: 10px;
+  line-height: 150px;
+  letter-spacing: -15px;
+}
+.button {
+  border: 0;
+  padding: 10px 20px;
+  background: #EFEFEF;
+  font-size: 20px;
+  margin: 1px;
+  cursor: pointer;
+}
