@@ -4,7 +4,7 @@ mobx-deku-boilerplate
 A minimal application that combines [MobX](https://mobxjs.github.io/mobx) with [deku](https://github.com/anthonyshort/deku).
 Supports ES6 and JSX compilation through babel.
 
-A fork of https://github.com/mobxjs/mobx-react-boilerplate
+Utilizes [mobx-deku](https://github.com/micnews/mobx-deku)
 
 ### Run the example
 
