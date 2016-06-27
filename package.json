@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/orrybaram/mobx-deku-boilerplate.git"
+    "url": "https://github.com/micnews/mobx-deku-boilerplate.git"
   },
   "keywords": [
     "deku",
@@ -17,12 +17,12 @@
     "mobx",
     "starter-kit"
   ],
-  "author": "Orry Baram <orrybaram@gmail.com> (http://github.com/orrybaram)",
+  "author": "Orry Baram <orry@mic.com> (http://github.com/orrybaram)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/orrybaram/mobx-deku-boilerplate/issues"
+    "url": "https://github.com/micnews/mobx-deku-boilerplate/issues"
   },
-  "homepage": "https://github.com/orrybaram/mobx-deku-boilerplate/",
+  "homepage": "https://github.com/micnews/mobx-deku-boilerplate/",
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-eslint": "^6.1.0",
